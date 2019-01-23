@@ -4,3 +4,4 @@
 [![Build Status](https://travis-ci.org/mslinn/typeclassFun2.svg?branch=master)](https://travis-ci.org/mslinn/typeclassFun2)
 [![GitHub version](https://badge.fury.io/gh/mslinn%2FtypeclassFun2.svg)](https://badge.fury.io/gh/mslinn%2FtypeclassFun2)
 
+Adapted from https://underscore.io/books/scala-with-cats/
